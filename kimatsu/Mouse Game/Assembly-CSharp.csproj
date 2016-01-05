@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AI.cs" />
      <Compile Include="Assets\Scripts\AI2.cs" />
+     <Compile Include="Assets\Scripts\AI2dayo.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Scripts\RayMove.cs" />
  <Reference Include="UnityEngine.UI">

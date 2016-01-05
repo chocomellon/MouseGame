@@ -37,7 +37,7 @@ public class AI : MonoBehaviour
         {
             DoTracking();
 
-            //プレイヤーと目的地の距離が15f以下になると次の目的地をランダム指定
+            //Agentと目的地の距離が15f以下になると次の目的地をランダム指定
         }
         else if (agentToPatroldistance < 15f)
         {
